@@ -1,0 +1,15 @@
+"devDependencies": {
+  "@react-native-community/cli": "latest",
+}
+
+{
+  "name": "narzissmsupportapp",
+  "version": "1.0.0",
+  "description": "NarzissmusInformation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "severin g.",
+  "license": "ISC"
+}
